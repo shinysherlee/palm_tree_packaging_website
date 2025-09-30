@@ -2,7 +2,7 @@ Palm Tree Packaging Website
 This is the official website for Palm Tree Packaging, a company dedicated to providing 100% biodegradable and compostable products. The site is designed to showcase the company's mission, products, and certifications, while also providing a simple way for potential clients to get in touch.
 
 Live Preview
-https://candid-unicorn-22e2f5.netlify.app/
+https://palmtreepackaging.netlify.app/
 
 Features
 Responsive Design: The website is built to be fully responsive and accessible on both desktop and mobile devices.
